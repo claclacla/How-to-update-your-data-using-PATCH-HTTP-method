@@ -1,0 +1,16 @@
+app:
+  port: 4000
+recipe:
+  id: 1
+  name: Apple fritters
+  type: Breakfast
+  chef: 
+    name: Jade
+    surname: Grammy
+  preparationTime: 15
+  cookingTime: 10
+  ingredients:
+    - apples
+    - eggs
+    - oil
+    - sugar

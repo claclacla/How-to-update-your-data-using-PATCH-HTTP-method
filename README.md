@@ -36,10 +36,10 @@ The easiest way to get started is to clone the repository:
 
 ```
 # Get the latest snapshot
-git clone https://github.com/claclacla/myproject.git myproject
+git clone https://github.com/claclacla/How-to-update-your-data-using-PATCH-HTTP-method
 
 # Change directory
-cd myproject
+cd How-to-update-your-data-using-PATCH-HTTP-method
 
 # Install NPM dependencies
 npm i
@@ -51,7 +51,7 @@ npm i
 
 ```
 # Change directory
-cd myproject
+cd How-to-update-your-data-using-PATCH-HTTP-method
 
 # Start the API server using node
 npm start
