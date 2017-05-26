@@ -1,7 +1,7 @@
 var RecipeEntity = require("../models/RecipeEntity");
 var IRepository = require("./IRepository");
 
-class RecipeLowDBRepository extends IRepository {
+class RecipeForeRunnerDBRepository extends IRepository {
   constructor(db) {
     super();
 
@@ -82,4 +82,4 @@ class RecipeLowDBRepository extends IRepository {
   }
 }
 
-module.exports = RecipeLowDBRepository
+module.exports = RecipeForeRunnerDBRepository
